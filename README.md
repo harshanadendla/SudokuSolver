@@ -1,3 +1,2 @@
 # SudokuSolver
-MobileApp that solves a sudoku puzzle
-underConstruction
+MobileApp that solves a sudoku puzzle underConstruction.
